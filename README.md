@@ -6,14 +6,14 @@
 
   Interactive visualization of the graduation rates of all public high schools in Puerto Rico, across regions, districts, and cities.
   
-#### [Interactive visualization of 5 years of University of Puerto Rico admissions data](https://carlosgg.shinyapps.io/admisiones-upr/)
+#### [Interactive visualization of 5 years of University of Puerto Rico admissions data](https://github.com/carlosror/upr-admisiones)
 
   An interactive web app created using ~69,000 records from Puerto Rico's Open Data Portal, corresponding to students admitted to the UPR campuses over a 5-year period. The app helps educators and future applicants visualize the qualifications of students admitted to a given UPR campus in a given year. The app also illustrates the most popular majors among male and female students, as well as the most selective ones overall. In addition, the most frequent high schools of provenance of those admitted to a campus and the top performing schools in Puerto Rico are also graphed.
   
 #### [Analysis of 2016 California ballot measures](https://github.com/carlosror/CA_elections_2016)
 
   This is the final project for [Python for Data Journalists: Analyzing Money in Politics](http://journalismcourses.org/course/view.php?id=52), a course offered by the 
-[Kinght Center for Journalism in the Americas](https://knightcenter.utexas.edu/). The 
+[Knight Center for Journalism in the Americas](https://knightcenter.utexas.edu/). The 
 project summarizes and plots the sources and amount of funding received by the various ballot measures from 
 the November 8, 2016 election in California, as well as the voting results.
 
@@ -43,7 +43,7 @@ the November 8, 2016 election in California, as well as the voting results.
 
 #### [PLL design tool](https://github.com/carlosror/pll3rdorder)
 
-  Web-based 3rd-order PLL design tool in Python/Javascript. Computes loop filter
+  A colorful 3rd-order PLL design tool in Python/Javascript. Computes loop filter
 components’ values, plots open- and closed-loop responses and output-referred noise
 plots, computes RMS phase and frequency errors and jitter, plots time response, and
 computes various lock times. Plots and tabulates extensive results to web page or, alternatively,
@@ -52,7 +52,7 @@ available in Simplified Chinese as well. [体验一下吧](http://pll3rdorder.ap
 
 #### [Smith Chart impedance matching tool](http://thesmithchart.appspot.com)
 
-  Web-based Smith chart impedance matching tool using jQuery and HTML Canvas aids
+  A vibrant Smith chart impedance matching tool using jQuery and HTML Canvas aids
 designer to match a given impedance ZL at a given frequency to a given characteristic
 impedance Zo. Computes equivalent input impedance and reflection coefficient
 amplitude and phase and plots on the Smith Chart. Can use Z, Y, or ZY Smith charts.
