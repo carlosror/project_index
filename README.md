@@ -43,7 +43,7 @@ the November 8, 2016 election in California, as well as the voting results.
 
 #### [PLL design tool](https://github.com/carlosror/pll3rdorder)
 
-  A colorful 3rd-order PLL design tool in Python/Javascript. Computes loop filter
+  A colorful 3<sup>rd</sup>-order PLL design tool in Python/Javascript. Computes loop filter
 components’ values, plots open- and closed-loop responses and output-referred noise
 plots, computes RMS phase and frequency errors and jitter, plots time response, and
 computes various lock times. Plots and tabulates extensive results to web page or, alternatively,
@@ -52,7 +52,7 @@ available in Simplified Chinese as well. [体验一下吧](http://pll3rdorder.ap
 
 #### [Smith Chart impedance matching tool](http://thesmithchart.appspot.com)
 
-  A vibrant Smith chart impedance matching tool using jQuery and HTML Canvas aids
-designer to match a given impedance ZL at a given frequency to a given characteristic
-impedance Zo. Computes equivalent input impedance and reflection coefficient
+  A vibrant Smith chart impedance matching tool using jQuery and HTML Canvas that aids
+designers to match a given impedance Z<sub>L</sub> at a given frequency to a given characteristic
+impedance Z<sub>o</sub>. Computes equivalent input impedance and reflection coefficient
 amplitude and phase and plots on the Smith Chart. Can use Z, Y, or ZY Smith charts.
