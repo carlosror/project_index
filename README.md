@@ -1,5 +1,7 @@
 # Projects
 
+In these projects I either pursued an interesting line of inquiry or devised a tool I thought would be useful. They were built with R, Python, Javascript, jQuery, or some combination of them, and skills learned in [**courses**](https://github.com/carlosror/course_index) taken on the [edX](https://github.com/carlosror/course_index) or [Coursera](https://github.com/carlosror/course_index) platforms.
+
 ## Data exploration and visualization
 
 #### [Interactive visualization of performance of Puerto Rican high schools in 2013-2014](https://github.com/carlosror/tasas-graduaciones)
@@ -56,6 +58,12 @@ the November 8, 2016 election in California, as well as the voting results.
 ## Machine learning
 
 #### [Notebook: Predicting the performance of Prosper loans using logistic regression](https://carlosror.github.io/prosper_loans/)
+
+  Devising a strategy to invest in Prosper[https://www.prosper.com/] loans using logistic regression.
+  
+#### [Notebook: Predicting thyroid diagnoses with decision trees](https://github.com/carlosror/thyroid)
+
+#### [Notebook: Predicting the severity of mammography assessments with decision trees](https://github.com/carlosror/thyroid)
 
 ## EE
 
