@@ -59,7 +59,7 @@ the November 8, 2016 election in California, as well as the voting results.
 
 #### [Notebook: Predicting the performance of Prosper loans using logistic regression](https://carlosror.github.io/prosper_loans/)
 
-  Devising a strategy to invest in Prosper[https://www.prosper.com/] loans using logistic regression.
+  Devising a strategy to invest in [Prosper](https://www.prosper.com/) loans using logistic regression.
   
 #### [Notebook: Predicting thyroid diagnoses with decision trees](https://github.com/carlosror/thyroid)
 
