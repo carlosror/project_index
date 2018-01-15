@@ -26,6 +26,14 @@ the November 8, 2016 election in California, as well as the voting results.
 #### [Exploring the 1980 MLB season with MySQL and R](https://github.com/carlosror/baseball_mysql)
 
   A whimsical look at the 1980 Major League Baseball season using MySQL, R, and the 2016 [Lahman database](http://www.seanlahman.com/baseball-archive/statistics/), which has baseball data going back to *1871*. In 1980, baseball was a *big* deal.
+
+#### [Majors, salaries, and genders](https://carlosror.github.io/majors_genders_salaries)
+
+  A visualization of the median salaries of recent graduates of about 170 majors, and the degree of women's participation in each major.
+
+#### [Who shops Black Friday sales on Thanksgiving Day?](https://carlosror.github.io/Thanksgiving)
+
+  An exploration and visualization of who shops the Black Friday sales on Thanksgiving Day.
   
 ### Crime maps
 
