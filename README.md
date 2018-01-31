@@ -39,11 +39,11 @@ the November 8, 2016 election in California, as well as the voting results.
 
   These interactive maps plot police activity within a given radius of a location. The user can specify types of incidents, days of week, and times of day to refine results. The application also displays density maps, faceted bar plots, and contingency tables.
 
-- [Orlando police calls map (2009-2015, 3 million records)](https://github.com/carlosror/orlando_police_calls)
-- [Puerto Rico crime map (2012-2015, 220,000 records)](https://github.com/carlosror/puerto_rico_crime)
-- [Los Angeles crime map (2004-2015, 2 million records)](https://github.com/carlosror/la_crimes)
-- [Chicago crime map (2001-2016, 14 million records)](https://github.com/carlosror/la_crimes)
-- [San Francisco crime map (2003-2016, 2 million records)](https://github.com/carlosror/sf_crime)
+- [Orlando police calls map (2009-2015, 3 million records)](https://carlosgg.shinyapps.io/orlando-police-calls-map/) [<img src="github_icon.png">](https://github.com/carlosror/orlando_police_calls)
+- [Puerto Rico crime map (2012-2015, 220,000 records)](https://carlosgg.shinyapps.io/mapa-crimen-pr/) [<img src="github_icon.png">](https://github.com/carlosror/puerto_rico_crime)
+- [Los Angeles crime map (2004-2015, 2 million records)](https://carlosgg.shinyapps.io/la-crimes-map/) [<img src="github_icon.png">](https://github.com/carlosror/la_crimes)
+- [Chicago crime map (2001-2016, 14 million records)](https://carlosgg.shinyapps.io/chicago-crimes-map/) [<img src="github_icon.png">](https://github.com/carlosror/chicago_crimes)
+- [San Francisco crime map (2003-2016, 2 million records)](https://carlosgg.shinyapps.io/sf-crime-map/) [<img src="github_icon.png">](https://github.com/carlosror/sf_crime)
 
 ## Statistical inference
 
