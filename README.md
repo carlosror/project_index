@@ -23,7 +23,7 @@ the November 8, 2016 election in California, as well as the voting results.
 
   Heatmaps and boxplots dashboard for an [L.A. County employee salaries dataset](https://data.lacounty.gov/Operations/LA-County-Employee-Salaries/8rdv-6nb6) that includes employees’ salaries and benefits for the years 2013-2015.
   
-#### [Exploring the 1980 MLB season with MySQL and R](https://carlosror.github.io/baseball_mysql/) [<img src="github_icon.png">](https://github.com/carlosror/la_county_salaries_dashboard)
+#### [Exploring the 1980 MLB season with MySQL and R](https://carlosror.github.io/baseball_mysql/) [<img src="github_icon.png">](https://github.com/carlosror/baseball_mysql)
 
   A whimsical look at the 1980 Major League Baseball season using MySQL, R, and the 2016 [Lahman database](http://www.seanlahman.com/baseball-archive/statistics/), which has baseball data going back to *1871*. In 1980, baseball was a *big* deal.
 
@@ -75,7 +75,7 @@ the November 8, 2016 election in California, as well as the voting results.
 
 ## EE
 
-#### [PLL design tool](https://github.com/carlosror/pll3rdorder)
+#### [PLL design tool](http://pll3rdorder.appspot.com/) [<img src="github_icon.png">](https://github.com/carlosror/pll3rdorder)
 
   A colorful 3<sup>rd</sup>-order PLL design tool in Python/Javascript. Computes loop filter
 components’ values, plots open- and closed-loop responses and output-referred noise
