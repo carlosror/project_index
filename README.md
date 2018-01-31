@@ -4,7 +4,7 @@ In these projects I either pursued an interesting line of inquiry or devised a t
 
 ## Data exploration and visualization
 
-#### [Interactive visualization of performance of Puerto Rican high schools in 2013-2014](https://carlosgg.shinyapps.io/tasas-graduaciones-pr/)[<img src="github_icon.png">](https://github.com/carlosror/tasas-graduaciones)
+#### [Interactive visualization of performance of Puerto Rican high schools in 2013-2014](https://carlosgg.shinyapps.io/tasas-graduaciones-pr/) [<img src="github_icon.png">](https://github.com/carlosror/tasas-graduaciones)
 
   Interactive visualization of the graduation rates of all public high schools in Puerto Rico, across regions, districts, and cities.
   
