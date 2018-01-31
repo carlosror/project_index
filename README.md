@@ -47,19 +47,19 @@ the November 8, 2016 election in California, as well as the voting results.
 
 ## Statistical inference
 
-#### [Inference on a population mean](https://github.com/carlosror/stat-inf-means)
+#### [Inference on a population mean](https://carlosror.github.io/stat-inf-means/) [<img src="github_icon.png">](https://github.com/carlosror/stat-inf-means)
 
   A notebook that infers the true average number of hours worked by Americans, based on the 2016 [General Social Survey](http://gss.norc.org/).
   
-#### [Inference on a population proportion](https://github.com/carlosror/stat-inf-proportions)
+#### [Inference on a population proportion](https://carlosror.github.io/stat-inf-proportions/) [<img src="github_icon.png">](https://github.com/carlosror/stat-inf-proportions)
 
   A notebook that infers the true proportion of Americans working full time, based on the 2016 [General Social Survey](http://gss.norc.org/).
   
-#### [Inference on the difference in population means](https://github.com/carlosror/stat-inf-comparing-two-means)
+#### [Inference on the difference in population means](https://carlosror.github.io/stat-inf-comparing-two-means/) [<img src="github_icon.png">](https://github.com/carlosror/stat-inf-proportions)
 
   A notebook that infers the true difference in mean self-ranking between two populations: Americans who voted for Mitt Romney in the 2012 presidential elections, and those who voted for Barack Obama.
   
-#### [Inference on the difference in population proportions](https://github.com/carlosror/stat-inf-comparing-two-proportions)
+#### [Inference on the difference in population proportions](https://carlosror.github.io/stat-inf-comparing-two-proportions/) [<img src="github_icon.png">](https://github.com/carlosror/stat-inf-comparing-two-proportions)
 
   A notebook that makes inferences about the true difference in proportion of gun ownership between two populations: Americans who don’t live within a 1-mile radius of an area they fear, and Americans who do.
 
