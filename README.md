@@ -65,13 +65,13 @@ the November 8, 2016 election in California, as well as the voting results.
 
 ## Machine learning
 
-#### [Notebook: Predicting the performance of Prosper loans using logistic regression](https://carlosror.github.io/prosper_loans/)
+#### [Notebook: Predicting the performance of Prosper loans using logistic regression](https://carlosror.github.io/prosper_loans/) [<img src="github_icon.png">](https://github.com/carlosror/prosper_loans)
 
   Devising a strategy to invest in [Prosper](https://www.prosper.com/) loans using logistic regression.
   
-#### [Notebook: Predicting thyroid diagnoses with decision trees](https://github.com/carlosror/thyroid)
+#### [Notebook: Predicting thyroid diagnoses with decision trees](https://carlosror.github.io/thyroid/) [<img src="github_icon.png">](https://github.com/carlosror/thyroid)
 
-#### [Notebook: Predicting the severity of mammography assessments with decision trees](https://github.com/carlosror/thyroid)
+#### [Notebook: Predicting the severity of mammography assessments with decision trees](https://carlosror.github.io/mammography/) [<img src="github_icon.png">](https://github.com/carlosror/mammography)
 
 ## EE
 
