@@ -73,6 +73,10 @@ the November 8, 2016 election in California, as well as the voting results.
 
 #### [Notebook: Predicting the severity of mammography assessments with decision trees](https://carlosror.github.io/mammography/) [<img src="github_icon.png">](https://github.com/carlosror/mammography)
 
+#### [Notebook: Classification of tweets using SVM](https://carlosror.github.io/twitter_svm/) [<img src="github_icon.png">](https://github.com/carlosror/twitter_svm)
+
+  Classifying tweets using Support Vector Machines.
+
 ## EE
 
 #### [PLL design tool](http://pll3rdorder.appspot.com/) [<img src="github_icon.png">](https://github.com/carlosror/pll3rdorder)
