@@ -35,6 +35,10 @@ the November 8, 2016 election in California, as well as the voting results.
 
   An exploration and visualization of who shops the Black Friday sales on Thanksgiving Day.
   
+#### [Lookup tables and pivot tables in spreadsheets (and R)](https://carlosror.github.io/excel_notebook/) [<img src="github_icon.png">](https://github.com/carlosror/excel_notebook)
+
+  What lookup functions and pivot tables in spreadsheets can do for us and their equivalents in R.
+  
 ### Crime maps
 
   These interactive maps plot police activity within a given radius of a location. The user can specify types of incidents, days of week, and times of day to refine results. The application also displays density maps, faceted bar plots, and contingency tables.
