@@ -49,6 +49,9 @@ the November 8, 2016 election in California, as well as the voting results.
 - [Chicago crime map (2001-2016, 14 million records)](https://carlosgg.shinyapps.io/chicago-crimes-map/) [<img src="github_icon.png">](https://github.com/carlosror/chicago_crimes)
 - [San Francisco crime map (2003-2016, 2 million records)](https://carlosgg.shinyapps.io/sf-crime-map/) [<img src="github_icon.png">](https://github.com/carlosror/sf_crime)
 
+#### [Video game sales by year, platform, genre, and region](https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Yearlysalesbyplatform)
+Tableau visualization of [this Kaggle dataset](https://www.kaggle.com/gregorut/videogamesales) that includes video game sales of some 16,000 video released between the 1980's and 2016.
+
 ## Statistical inference
 
 #### [Inference on a population mean](https://carlosror.github.io/stat-inf-means/) [<img src="github_icon.png">](https://github.com/carlosror/stat-inf-means)
