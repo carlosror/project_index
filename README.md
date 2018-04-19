@@ -1,4 +1,4 @@
-In these projects I either pursued an interesting line of inquiry or devised a tool I thought would be useful. They were built with R, Python, Javascript, jQuery, or some combination of them, and skills learned in [**courses**](https://github.com/carlosror/course_index) taken on the [edX](https://github.com/carlosror/course_index) or [Coursera](https://github.com/carlosror/course_index) platforms.
+In these projects I either pursued an interesting line of inquiry or devised a tool I thought would be useful. They were built with R, Python, Javascript, jQuery, or some combination of them, and skills learned in [**courses**](https://carlosror.github.io/course_index) taken on the [edX](https://github.com/carlosror/course_index) or [Coursera](https://github.com/carlosror/course_index) platforms.
 
 ## Data exploration and visualization
 
