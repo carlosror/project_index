@@ -50,6 +50,12 @@ the November 8, 2016 election in California, as well as the voting results.
 #### [Video game sales by year, platform, genre, and region](https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Yearlysalesbyplatform)
 Tableau visualization of [this Kaggle dataset](https://www.kaggle.com/gregorut/videogamesales) that includes video game sales of some 16,000 video released between the 1980's and 2016.
 
+## Data pre-processing
+
+#### [Pre-processing of police calls data](https://carlosror.github.io/orlando_police_calls_munging) [<img src="github_icon.png">](https://github.com/carlosror/orlando_police_calls_munging)
+
+This notebook describes the pre-processing applied to a dataset that would eventually be used in the [Orlando police calls map](https://carlosgg.shinyapps.io/orlando-police-calls-map/).
+
 ## Statistical inference
 
 #### [Inference on a population mean](https://carlosror.github.io/stat-inf-means/) [<img src="github_icon.png">](https://github.com/carlosror/stat-inf-means)
