@@ -36,7 +36,11 @@ the November 8, 2016 election in California, as well as the voting results.
 #### [Lookup tables and pivot tables in spreadsheets (and R)](https://carlosror.github.io/excel_notebook/) [<img src="github_icon.png">](https://github.com/carlosror/excel_notebook)
 
   What lookup functions and pivot tables in spreadsheets can do for us and their equivalents in R.
-  
+
+#### [Exploring Africans' views on China using Excel VBA](https://carlosror.github.io/afrobarometer_china//) [<img src="github_icon.png">](https://github.com/carlosror/afrobarometer_china)
+
+  Using [Afrobarometer's](http://www.afrobarometer.org/) 2016 poll [data](http://afrobarometer.org/data/merged-round-6-data-36-countries-2016) and Excel VBA to gain some insight into Africans' view on China.
+
 ### Crime maps
 
   These interactive maps plot police activity within a given radius of a location. The user can specify types of incidents, days of week, and times of day to refine results. The application also displays density maps, faceted bar plots, and contingency tables.
