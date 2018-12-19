@@ -26,6 +26,9 @@ the November 8, 2016 election in California, as well as the voting results, usin
 
 #### [Los Angeles County salaries dashboard (2013-2015, 300,000 records)](https://carlosgg.shinyapps.io/la-county-salaries-dashboard/) [<img src="github_icon.png">](https://github.com/carlosror/la_county_salaries_dashboard)
 
+<a href="https://carlosgg.shinyapps.io/admisiones-upr/" ><img src="docs_images/la_county_heatmap.PNG" alt="drawing" height = "40%" width = "40%" /></a>
+<a href="https://carlosgg.shinyapps.io/admisiones-upr/" ><img src="docs_images/la_county_boxplot.png" alt="drawing" height = "40%" width = "40%" /></a>
+
   Heatmaps and boxplots dashboard for an [L.A. County employee salaries dataset](https://data.lacounty.gov/Operations/LA-County-Employee-Salaries/8rdv-6nb6) that includes employees’ salaries and benefits for the years 2013-2015, using **R**, the **rbokeh** package, and **Shiny server**.
   
 #### [Exploring the 1980 MLB season with MySQL and R](https://carlosror.github.io/baseball_mysql/) [<img src="github_icon.png">](https://github.com/carlosror/baseball_mysql)
