@@ -4,6 +4,8 @@ In these projects I either pursued an interesting line of inquiry or devised a t
 
 #### [Interactive visualization of performance of Puerto Rican high schools in 2013-2014](https://carlosgg.shinyapps.io/tasas-graduaciones-pr/) [<img src="github_icon.png">](https://github.com/carlosror/tasas-graduaciones)
 
+<img src="docs_images/regiones.PNG" alt="drawing" height = "70%" width = "70%"/>
+
   Interactive visualization of the graduation rates of all public high schools in Puerto Rico, across regions, districts, and cities, using **R** and **Shiny server**.
   
 #### [Interactive visualization of 5 years of University of Puerto Rico admissions data](https://carlosgg.shinyapps.io/admisiones-upr/) [<img src="github_icon.png">](https://github.com/carlosror/upr-admisiones)
