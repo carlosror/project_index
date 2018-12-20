@@ -149,8 +149,8 @@ This notebook describes the pre-processing, using **R notebook**, applied to a d
 
 #### [Notebook: Predicting the performance of Prosper loans using logistic regression](https://carlosror.github.io/prosper_loans/) [<img src="github_icon.png">](https://github.com/carlosror/prosper_loans)
 
-<a href="https://carlosror.github.io/prosper_loans/" ><img src="docs_images/loans_1.PNG" alt="drawing" height = "50%" width = "50%" /></a>
-<a href="https://carlosror.github.io/prosper_loans/" ><img src="docs_images/loans_2.png" alt="drawing" height = "50%" width = "50%" /></a>
+<a href="https://carlosror.github.io/prosper_loans/" ><img src="docs_images/loans_1.PNG" alt="drawing" height = "30%" width = "30%" /></a>
+<a href="https://carlosror.github.io/prosper_loans/" ><img src="docs_images/loans_2.png" alt="drawing" height = "60%" width = "60%" /></a>
 
   Devising a strategy to invest in [Prosper](https://www.prosper.com/) loans using logistic regression, **R notebook**, and the **caret** and **ROCR** packages.
   
