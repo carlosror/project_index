@@ -82,6 +82,12 @@ the November 8, 2016 election in California, as well as the voting results, usin
 - [San Francisco crime map (2003-2016, 2 million records)](https://carlosgg.shinyapps.io/sf-crime-map/) [<img src="github_icon.png">](https://github.com/carlosror/sf_crime)
 
 #### [Video game sales by year, platform, genre, and region](https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Yearlysalesbyplatform)
+
+<a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Yearlysalesbyplatform" ><img src="docs_images/tableau_1.PNG" alt="drawing" height = "90%" width = "90%" /></a>
+<br>
+<a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Genresandratings" ><img src="docs_images/tableau_2.PNG" alt="drawing" height = "45%" width = "45%" /></a>
+<a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/2000sRegionalSales" ><img src="docs_images/tableau_3.PNG" alt="drawing" height = "45%" width = "45%" /></a>
+
 **Tableau** visualization of [this Kaggle dataset](https://www.kaggle.com/gregorut/videogamesales) that includes video game sales of some 16,000 video released between the 1980's and 2016.
 
 ## Data pre-processing
