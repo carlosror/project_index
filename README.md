@@ -84,13 +84,6 @@ the November 8, 2016 election in California, as well as the voting results, usin
 
 ### Crime maps
 
-<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_2.PNG" alt="drawing" height = "37.5%" width = "37.5%" /></a>
-<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_1.png" alt="drawing" height = "30%" width = "30%" /></a>
-<br>
-<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_3.png" alt="drawing" height = "70%" width = "70%" /></a>
-<br>
-<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_4.PNG" alt="drawing" height = "70%" width = "70%" /></a>
-
   These interactive maps plot police activity within a given radius of a location. The user can specify types of incidents, days of week, and times of day to refine results. Each of them also displays density maps, faceted bar plots, and contingency tables. They were put together using using **R** and **Shiny server**, while the data was pre-processed using **Python**.
 
 - [Orlando police calls map (2009-2015, 3 million records)](https://carlosgg.shinyapps.io/orlando-police-calls-map/) [<img src="github_icon.png">](https://github.com/carlosror/orlando_police_calls)
@@ -99,16 +92,23 @@ the November 8, 2016 election in California, as well as the voting results, usin
 - [Chicago crime map (2001-2016, 14 million records)](https://carlosgg.shinyapps.io/chicago-crimes-map/) [<img src="github_icon.png">](https://github.com/carlosror/chicago_crimes)
 - [San Francisco crime map (2003-2016, 2 million records)](https://carlosgg.shinyapps.io/sf-crime-map/) [<img src="github_icon.png">](https://github.com/carlosror/sf_crime)
 
+<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_2.PNG" alt="drawing" height = "37.5%" width = "37.5%" /></a>
+<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_1.png" alt="drawing" height = "30%" width = "30%" /></a>
+<br>
+<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_3.png" alt="drawing" height = "70%" width = "70%" /></a>
+<br>
+<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_4.PNG" alt="drawing" height = "70%" width = "70%" /></a>
+
 ---
 
 #### [Video game sales by year, platform, genre, and region](https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Yearlysalesbyplatform)
+
+**Tableau** visualization of [this Kaggle dataset](https://www.kaggle.com/gregorut/videogamesales) that includes video game sales of some 16,000 video released between the 1980's and 2016.
 
 <a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Yearlysalesbyplatform" ><img src="docs_images/tableau_1.PNG" alt="drawing" height = "90%" width = "90%" /></a>
 <br>
 <a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/2000sRegionalSales" ><img src="docs_images/tableau_2.PNG" alt="drawing" height = "45%" width = "45%" /></a>
 <a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Genresandratings" ><img src="docs_images/tableau_3.PNG" alt="drawing" height = "45%" width = "45%" /></a>
-
-**Tableau** visualization of [this Kaggle dataset](https://www.kaggle.com/gregorut/videogamesales) that includes video game sales of some 16,000 video released between the 1980's and 2016.
 
 ---
 
@@ -122,10 +122,10 @@ This notebook describes the pre-processing, using **R notebook**, applied to a d
 
 ## Statistical inference
 
+  These statistical inference projects were done using **R notebook**.
+  
 <a href="https://carlosror.github.io/stat-inf-proportions/" ><img src="docs_images/inference_1.png" alt="drawing" height = "45%" width = "45%" /></a>
 <a href="https://carlosror.github.io/stat-inf-proportions/" ><img src="docs_images/inference_3.png" alt="drawing" height = "45%" width = "45%" /></a>
-
-  These statistical inference projects were done using **R notebook**.
 
 #### [Inference on a population mean](https://carlosror.github.io/stat-inf-means/) [<img src="github_icon.png">](https://github.com/carlosror/stat-inf-means)
 
