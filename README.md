@@ -33,7 +33,7 @@ the November 8, 2016 election in California, as well as the voting results, usin
   
 #### [Exploring the 1980 MLB season with MySQL and R](https://carlosror.github.io/baseball_mysql/) [<img src="github_icon.png">](https://github.com/carlosror/baseball_mysql)
 
-<a href="https://carlosgg.shinyapps.io/admisiones-upr/" ><img src="docs_images/baseball_treemap.png" alt="drawing" height = "60%" width = "60%" /></a>
+<a href="https://carlosror.github.io/baseball_mysql/" ><img src="docs_images/baseball_treemap.png" alt="drawing" height = "60%" width = "60%" /></a>
 
   A whimsical look at the 1980 Major League Baseball season using **MySQL**, **R**, and the 2016 [Lahman database](http://www.seanlahman.com/baseball-archive/statistics/), which has baseball data going back to *1871*. In 1980, baseball was a *big* deal.
 
