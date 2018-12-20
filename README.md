@@ -21,30 +21,30 @@ In these projects I either pursued an interesting line of inquiry or devised a t
   
 #### [Analysis of 2016 California ballot measures](https://carlosror.github.io/CA_elections_2016/) [<img src="github_icon.png">](https://github.com/carlosror/CA_elections_2016)
 
-<a href="https://carlosror.github.io/CA_elections_2016/" ><img src="docs_images/california_ballots.png" alt="drawing" height = "60%" width = "60%" /></a>
-
   This is the final project for [Python for Data Journalists: Analyzing Money in Politics](http://journalismcourses.org/course/view.php?id=52), a course offered by the 
 [Knight Center for Journalism in the Americas](https://knightcenter.utexas.edu/). The 
 project summarizes and plots the sources and amount of funding received by the various ballot measures from 
 the November 8, 2016 election in California, as well as the voting results, using **Python**, **Jupyter**, **pandas**, **numpy**, and **matplotlib**.
 
+<a href="https://carlosror.github.io/CA_elections_2016/" ><img src="docs_images/california_ballots.png" alt="drawing" height = "60%" width = "60%" /></a>
+
  ---
 
 #### [Los Angeles County salaries dashboard (2013-2015, 300,000 records)](https://carlosgg.shinyapps.io/la-county-salaries-dashboard/) [<img src="github_icon.png">](https://github.com/carlosror/la_county_salaries_dashboard)
 
+  Heatmaps and boxplots dashboard for an [L.A. County employee salaries dataset](https://data.lacounty.gov/Operations/LA-County-Employee-Salaries/8rdv-6nb6) that includes employees’ salaries and benefits for the years 2013-2015, using **R**, the **rbokeh** package, and **Shiny server**.
+
 <a href="https://carlosgg.shinyapps.io/admisiones-upr/" ><img src="docs_images/la_county_heatmap.PNG" alt="drawing" height = "40%" width = "40%" /></a>
 <a href="https://carlosgg.shinyapps.io/admisiones-upr/" ><img src="docs_images/la_county_boxplot.png" alt="drawing" height = "50%" width = "50%" /></a>
 
-  Heatmaps and boxplots dashboard for an [L.A. County employee salaries dataset](https://data.lacounty.gov/Operations/LA-County-Employee-Salaries/8rdv-6nb6) that includes employees’ salaries and benefits for the years 2013-2015, using **R**, the **rbokeh** package, and **Shiny server**.
-  
 ---
   
 #### [Exploring the 1980 MLB season with MySQL and R](https://carlosror.github.io/baseball_mysql/) [<img src="github_icon.png">](https://github.com/carlosror/baseball_mysql)
 
+  A whimsical look at the 1980 Major League Baseball season using **MySQL**, **R**, and the 2016 [Lahman database](http://www.seanlahman.com/baseball-archive/statistics/), which has baseball data going back to *1871*. In 1980, baseball was a *big* deal.
+
 <a href="https://carlosror.github.io/baseball_mysql/" ><img src="docs_images/baseball_treemap.png" alt="drawing" height = "60%" width = "60%" /></a>
 
-  A whimsical look at the 1980 Major League Baseball season using **MySQL**, **R**, and the 2016 [Lahman database](http://www.seanlahman.com/baseball-archive/statistics/), which has baseball data going back to *1871*. In 1980, baseball was a *big* deal.
-  
 ---
 
 #### [Majors, salaries, and genders](https://carlosror.github.io/majors_genders_salaries/) [<img src="github_icon.png">](https://github.com/carlosror/majors_genders_salaries)
