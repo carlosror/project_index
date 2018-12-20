@@ -123,9 +123,6 @@ This notebook describes the pre-processing, using **R notebook**, applied to a d
 ## Statistical inference
 
   These statistical inference projects were done using **R notebook**.
-  
-<a href="https://carlosror.github.io/stat-inf-proportions/" ><img src="docs_images/inference_1.png" alt="drawing" height = "45%" width = "45%" /></a>
-<a href="https://carlosror.github.io/stat-inf-proportions/" ><img src="docs_images/inference_3.png" alt="drawing" height = "45%" width = "45%" /></a>
 
 #### [Inference on a population mean](https://carlosror.github.io/stat-inf-means/) [<img src="github_icon.png">](https://github.com/carlosror/stat-inf-means)
 
@@ -142,6 +139,9 @@ This notebook describes the pre-processing, using **R notebook**, applied to a d
 #### [Inference on the difference in population proportions](https://carlosror.github.io/stat-inf-comparing-two-proportions/) [<img src="github_icon.png">](https://github.com/carlosror/stat-inf-comparing-two-proportions)
 
   An **R notebook** that makes inferences about the true difference in proportion of gun ownership between two populations: Americans who don’t live within a 1-mile radius of an area they fear, and Americans who do.
+  
+<a href="https://carlosror.github.io/stat-inf-proportions/" ><img src="docs_images/inference_1.png" alt="drawing" height = "45%" width = "45%" /></a>
+<a href="https://carlosror.github.io/stat-inf-proportions/" ><img src="docs_images/inference_3.png" alt="drawing" height = "45%" width = "45%" /></a>
 
 ---
 
@@ -149,11 +149,11 @@ This notebook describes the pre-processing, using **R notebook**, applied to a d
 
 #### [Notebook: Predicting the performance of Prosper loans using logistic regression](https://carlosror.github.io/prosper_loans/) [<img src="github_icon.png">](https://github.com/carlosror/prosper_loans)
 
+  Devising a strategy to invest in [Prosper](https://www.prosper.com/) loans using logistic regression, **R notebook**, and the **caret** and **ROCR** packages.
+
 <a href="https://carlosror.github.io/prosper_loans/" ><img src="docs_images/loans_1.PNG" alt="drawing" height = "30%" width = "30%" /></a>
 <a href="https://carlosror.github.io/prosper_loans/" ><img src="docs_images/loans_2.png" alt="drawing" height = "60%" width = "60%" /></a>
 
-  Devising a strategy to invest in [Prosper](https://www.prosper.com/) loans using logistic regression, **R notebook**, and the **caret** and **ROCR** packages.
-  
 ---
   
 #### [Notebook: Predicting thyroid diagnoses with decision trees using R notebook and the rpart package](https://carlosror.github.io/thyroid/) [<img src="github_icon.png">](https://github.com/carlosror/thyroid)
@@ -168,21 +168,17 @@ This notebook describes the pre-processing, using **R notebook**, applied to a d
 
 #### [Notebook: Classification of tweets using SVM](https://carlosror.github.io/twitter_svm/) [<img src="github_icon.png">](https://github.com/carlosror/twitter_svm)
 
+  Visualizing and classifying tweets using Support Vector Machines via **R notebook** and the **tm**, **SnowballC**, **wordcloud** and **e1071** packages.
+
 <a href="https://carlosror.github.io/twitter_svm/" ><img src="docs_images/twitter_1.PNG" alt="drawing" height = "25%" width = "25%" /></a>
 <a href="https://carlosror.github.io/twitter_svm/" ><img src="docs_images/twitter_2.png" alt="drawing" height = "30%" width = "30%" /></a>
 <a href="https://carlosror.github.io/twitter_svm/" ><img src="docs_images/twitter_3.png" alt="drawing" height = "30%" width = "30%" /></a>
 
-  Visualizing and classifying tweets using Support Vector Machines via **R notebook** and the **tm**, **SnowballC**, **wordcloud** and **e1071** packages.
-  
 ---
 
 ## EE
 
 #### [PLL design tool](http://pll3rdorder.appspot.com/) [<img src="github_icon.png">](https://github.com/carlosror/pll3rdorder)
-
-<a href="http://pll3rdorder.appspot.com/" ><img src="docs_images/pll_1.png" alt="drawing" height = "38%" width = "38%" /></a>
-<a href="http://pll3rdorder.appspot.com/" ><img src="docs_images/pll_3.png" alt="drawing" height = "30%" width = "30%" /></a>
-<a href="http://pll3rdorder.appspot.com/" ><img src="docs_images/pll_4.png" alt="drawing" height = "30%" width = "30%" /></a>
 
   A colorful 3<sup>rd</sup>-order PLL design tool in Python/Javascript. Computes loop filter
 components’ values, plots open- and closed-loop responses and output-referred noise
@@ -190,6 +186,10 @@ plots, computes RMS phase and frequency errors and jitter, plots time response, 
 computes various lock times. Plots and tabulates extensive results to web page or, alternatively,
 generates complete Excel report for download and further computations. The app is
 available in Simplified Chinese as well. [体验一下吧](http://pll3rdorder.appspot.com/zw). The app is hosted on **Google App Engine**. In the backend, the app uses **Python** and the modules **numpy**, **xlrd**, and **xlwt**, and the **Jinja2** templating engine. In the front end, it uses the **HTML5** stack: **HTML**, **CSS**, and **Javascript**, plus **Google Charts**.
+
+<a href="http://pll3rdorder.appspot.com/" ><img src="docs_images/pll_1.png" alt="drawing" height = "38%" width = "38%" /></a>
+<a href="http://pll3rdorder.appspot.com/" ><img src="docs_images/pll_3.png" alt="drawing" height = "30%" width = "30%" /></a>
+<a href="http://pll3rdorder.appspot.com/" ><img src="docs_images/pll_4.png" alt="drawing" height = "30%" width = "30%" /></a>
 
 ---
 
