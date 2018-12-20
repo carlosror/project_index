@@ -169,10 +169,12 @@ This notebook describes the pre-processing, using **R notebook**, applied to a d
 #### [Notebook: Classification of tweets using SVM](https://carlosror.github.io/twitter_svm/) [<img src="github_icon.png">](https://github.com/carlosror/twitter_svm)
 
 <a href="https://carlosror.github.io/twitter_svm/" ><img src="docs_images/twitter_1.PNG" alt="drawing" height = "25%" width = "25%" /></a>
-<a href="https://carlosror.github.io/twitter_svm/" ><img src="docs_images/twitter_2.png" alt="drawing" height = "35%" width = "35%" /></a>
-<a href="https://carlosror.github.io/twitter_svm/" ><img src="docs_images/twitter_3.png" alt="drawing" height = "35%" width = "35%" /></a>
+<a href="https://carlosror.github.io/twitter_svm/" ><img src="docs_images/twitter_2.png" alt="drawing" height = "30%" width = "30%" /></a>
+<a href="https://carlosror.github.io/twitter_svm/" ><img src="docs_images/twitter_3.png" alt="drawing" height = "30%" width = "30%" /></a>
 
   Visualizing and classifying tweets using Support Vector Machines via **R notebook** and the **tm**, **SnowballC**, **wordcloud** and **e1071** packages.
+  
+---
 
 ## EE
 
