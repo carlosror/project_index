@@ -191,9 +191,13 @@ computes various lock times. Plots and tabulates extensive results to web page o
 generates complete Excel report for download and further computations. The app is
 available in Simplified Chinese as well. [体验一下吧](http://pll3rdorder.appspot.com/zw). The app is hosted on **Google App Engine**. In the backend, the app uses **Python** and the modules **numpy**, **xlrd**, and **xlwt**, and the **Jinja2** templating engine. In the front end, it uses the **HTML5** stack: **HTML**, **CSS**, and **Javascript**, plus **Google Charts**.
 
+---
+
 #### [Smith Chart impedance matching tool](http://thesmithchart.appspot.com)
 
   A vibrant Smith chart impedance matching tool hosted on **Google App Engine** and using **jQuery** and **HTML Canvas** that aids
 designers to match a given impedance Z<sub>L</sub> at a given frequency to a given characteristic
 impedance Z<sub>o</sub>. Computes equivalent input impedance and reflection coefficient
 amplitude and phase and plots on the Smith Chart. Can use Z, Y, or ZY Smith charts.
+
+<a href="http://thesmithchart.appspot.com" ><img src="docs_images/smithchart.PNG" alt="drawing" height = "90%" width = "90%" /></a>
