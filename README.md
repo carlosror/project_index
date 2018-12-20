@@ -8,15 +8,15 @@ In these projects I either pursued an interesting line of inquiry or devised a t
 
 <a href="https://carlosgg.shinyapps.io/tasas-graduaciones-pr/" ><img src="docs_images/regiones.PNG" alt="drawing" height = "70%" width = "70%" /></a>
 
-  ---
+---
   
 #### [Interactive visualization of 5 years of University of Puerto Rico admissions data](https://carlosgg.shinyapps.io/admisiones-upr/) [<img src="github_icon.png">](https://github.com/carlosror/upr-admisiones)
 
+  An interactive web app created using ~69,000 records from Puerto Rico's Open Data Portal, corresponding to students admitted to the UPR campuses over a 5-year period, using **R** and **Shiny server**. The app helps educators and future applicants visualize the qualifications of students admitted to a given UPR campus in a given year. The app also illustrates the most popular majors among male and female students, as well as the most selective ones overall. In addition, the most frequent high schools of provenance of those admitted to a campus and the top performing schools in Puerto Rico are also graphed.
+  
 <a href="https://carlosgg.shinyapps.io/admisiones-upr/" ><img src="docs_images/admisiones_1.png" alt="drawing" height = "30%" width = "30%" /></a>
 <a href="https://carlosgg.shinyapps.io/admisiones-upr/" ><img src="docs_images/admisiones_2.png" alt="drawing" height = "30%" width = "30%" /></a>
 
-  An interactive web app created using ~69,000 records from Puerto Rico's Open Data Portal, corresponding to students admitted to the UPR campuses over a 5-year period, using **R** and **Shiny server**. The app helps educators and future applicants visualize the qualifications of students admitted to a given UPR campus in a given year. The app also illustrates the most popular majors among male and female students, as well as the most selective ones overall. In addition, the most frequent high schools of provenance of those admitted to a campus and the top performing schools in Puerto Rico are also graphed.
-  
 ---
   
 #### [Analysis of 2016 California ballot measures](https://carlosror.github.io/CA_elections_2016/) [<img src="github_icon.png">](https://github.com/carlosror/CA_elections_2016)
