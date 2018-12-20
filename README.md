@@ -34,8 +34,8 @@ the November 8, 2016 election in California, as well as the voting results, usin
 
   Heatmaps and boxplots dashboard for an [L.A. County employee salaries dataset](https://data.lacounty.gov/Operations/LA-County-Employee-Salaries/8rdv-6nb6) that includes employees’ salaries and benefits for the years 2013-2015, using **R**, the **rbokeh** package, and **Shiny server**.
 
-<a href="https://carlosgg.shinyapps.io/admisiones-upr/" ><img src="docs_images/la_county_heatmap.PNG" alt="drawing" height = "40%" width = "40%" /></a>
-<a href="https://carlosgg.shinyapps.io/admisiones-upr/" ><img src="docs_images/la_county_boxplot.png" alt="drawing" height = "50%" width = "50%" /></a>
+<a href="https://carlosgg.shinyapps.io/la-county-salaries-dashboard/" ><img src="docs_images/la_county_heatmap.PNG" alt="drawing" height = "40%" width = "40%" /></a>
+<a href="https://carlosgg.shinyapps.io/la-county-salaries-dashboard/" ><img src="docs_images/la_county_boxplot.png" alt="drawing" height = "50%" width = "50%" /></a>
 
 ---
   
@@ -49,37 +49,37 @@ the November 8, 2016 election in California, as well as the voting results, usin
 
 #### [Majors, salaries, and genders](https://carlosror.github.io/majors_genders_salaries/) [<img src="github_icon.png">](https://github.com/carlosror/majors_genders_salaries)
 
-<a href="https://carlosror.github.io/majors_genders_salaries/" ><img src="docs_images/majors_barplot.png" alt="drawing" height = "70%" width = "70%" /></a>
-
   A visualization of the median salaries of recent graduates of about 170 majors, and the degree of women's participation in each major, using **Python**, **Jupyter**, **pandas**, **numpy**, and **matplotlib**.
   
+<a href="https://carlosror.github.io/majors_genders_salaries/" ><img src="docs_images/majors_barplot.png" alt="drawing" height = "70%" width = "70%" /></a>
+
 ---
 
 #### [Who shops Black Friday sales on Thanksgiving Day?](https://carlosror.github.io/Thanksgiving) [<img src="github_icon.png">](https://github.com/carlosror/Thanksgiving)
 
+  An exploration and visualization of who shops the Black Friday sales on Thanksgiving Day, using **Python**, **Jupyter**, **pandas**, **numpy**, and **matplotlib**.
+
 <a href="https://carlosror.github.io/Thanksgiving" ><img src="docs_images/thanksgiving_1.PNG" alt="drawing" height = "35%" width = "35%" /></a>
 <a href="https://carlosror.github.io/Thanksgiving" ><img src="docs_images/thanksgiving_2.PNG" alt="drawing" height = "35%" width = "35%" /></a>
 
-  An exploration and visualization of who shops the Black Friday sales on Thanksgiving Day, using **Python**, **Jupyter**, **pandas**, **numpy**, and **matplotlib**.
-  
 ---
   
 #### [Lookup tables and pivot tables in spreadsheets (and R)](https://carlosror.github.io/excel_notebook/) [<img src="github_icon.png">](https://github.com/carlosror/excel_notebook)
 
+  What lookup functions and pivot tables in spreadsheets can do for us and their equivalents in R, using **R notebook**, **Excel**, **MySQL (RMySQL)**, and **XAMPP**.
+
 <a href="https://carlosror.github.io/excel_notebook/" ><img src="docs_images/excel_notebook2.png" alt="drawing" height = "35%" width = "35%" /></a>
 <a href="https://carlosror.github.io/excel_notebook/" ><img src="docs_images/excel_notebook.PNG" alt="drawing" height = "40%" width = "40%" /></a>
 
-  What lookup functions and pivot tables in spreadsheets can do for us and their equivalents in R, using **R notebook**, **Excel**, **MySQL (RMySQL)**, and **XAMPP**.
-  
 ---
 
 #### [Exploring Africans' views on China using Excel VBA](https://carlosror.github.io/afrobarometer_china//) [<img src="github_icon.png">](https://github.com/carlosror/afrobarometer_china)
 
+  Using [Afrobarometer's](http://www.afrobarometer.org/) 2016 poll [data](http://afrobarometer.org/data/merged-round-6-data-36-countries-2016) and **Excel VBA** to gain some insight into Africans' view on China.
+
 <a href="https://carlosror.github.io/afrobarometer_china/" ><img src="docs_images/africa_1.png" alt="drawing" height = "40%" width = "40%" /></a>
 <a href="https://carlosror.github.io/afrobarometer_china/" ><img src="docs_images/africa_2.png" alt="drawing" height = "45%" width = "45%" /></a>
 
-  Using [Afrobarometer's](http://www.afrobarometer.org/) 2016 poll [data](http://afrobarometer.org/data/merged-round-6-data-36-countries-2016) and **Excel VBA** to gain some insight into Africans' view on China.
-  
 ---
 
 ### Crime maps
