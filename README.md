@@ -143,11 +143,18 @@ This notebook describes the pre-processing, using **R notebook**, applied to a d
 
   An **R notebook** that makes inferences about the true difference in proportion of gun ownership between two populations: Americans who don’t live within a 1-mile radius of an area they fear, and Americans who do.
 
+---
+
 ## Machine learning
 
 #### [Notebook: Predicting the performance of Prosper loans using logistic regression](https://carlosror.github.io/prosper_loans/) [<img src="github_icon.png">](https://github.com/carlosror/prosper_loans)
 
+<a href="https://carlosror.github.io/prosper_loans/" ><img src="docs_images/loans_1.PNG" alt="drawing" height = "50%" width = "50%" /></a>
+<a href="https://carlosror.github.io/prosper_loans/" ><img src="docs_images/loans_2.png" alt="drawing" height = "50%" width = "50%" /></a>
+
   Devising a strategy to invest in [Prosper](https://www.prosper.com/) loans using logistic regression, **R notebook**, and the **caret** and **ROCR** packages.
+  
+---
   
 #### [Notebook: Predicting thyroid diagnoses with decision trees using R notebook and the rpart package](https://carlosror.github.io/thyroid/) [<img src="github_icon.png">](https://github.com/carlosror/thyroid)
 
