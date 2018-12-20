@@ -85,8 +85,8 @@ the November 8, 2016 election in California, as well as the voting results, usin
 
 <a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Yearlysalesbyplatform" ><img src="docs_images/tableau_1.PNG" alt="drawing" height = "90%" width = "90%" /></a>
 <br>
-<a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Genresandratings" ><img src="docs_images/tableau_2.PNG" alt="drawing" height = "45%" width = "45%" /></a>
-<a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/2000sRegionalSales" ><img src="docs_images/tableau_3.PNG" alt="drawing" height = "45%" width = "45%" /></a>
+<a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/2000sRegionalSales" ><img src="docs_images/tableau_2.PNG" alt="drawing" height = "45%" width = "45%" /></a>
+<a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Genresandratings" ><img src="docs_images/tableau_3.PNG" alt="drawing" height = "45%" width = "45%" /></a>
 
 **Tableau** visualization of [this Kaggle dataset](https://www.kaggle.com/gregorut/videogamesales) that includes video game sales of some 16,000 video released between the 1980's and 2016.
 
