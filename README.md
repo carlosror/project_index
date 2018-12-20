@@ -59,8 +59,8 @@ the November 8, 2016 election in California, as well as the voting results, usin
 
 #### [Exploring Africans' views on China using Excel VBA](https://carlosror.github.io/afrobarometer_china//) [<img src="github_icon.png">](https://github.com/carlosror/afrobarometer_china)
 
-<a href="https://carlosror.github.io/afrobarometer_china/" ><img src="docs_images/africa_1.png" alt="drawing" height = "50%" width = "50%" /></a>
-<a href="https://carlosror.github.io/afrobarometer_china/" ><img src="docs_images/africa_2.png" alt="drawing" height = "50%" width = "50%" /></a>
+<a href="https://carlosror.github.io/afrobarometer_china/" ><img src="docs_images/africa_1.png" alt="drawing" height = "40%" width = "40%" /></a>
+<a href="https://carlosror.github.io/afrobarometer_china/" ><img src="docs_images/africa_2.png" alt="drawing" height = "45%" width = "45%" /></a>
 
   Using [Afrobarometer's](http://www.afrobarometer.org/) 2016 poll [data](http://afrobarometer.org/data/merged-round-6-data-36-countries-2016) and **Excel VBA** to gain some insight into Africans' view on China.
 
