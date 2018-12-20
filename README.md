@@ -98,6 +98,9 @@ This notebook describes the pre-processing, using **R notebook**, applied to a d
 
 ## Statistical inference
 
+<a href="https://carlosror.github.io/stat-inf-proportions/" ><img src="docs_images/inference_1.png" alt="drawing" height = "45%" width = "45%" /></a>
+<a href="https://carlosror.github.io/stat-inf-proportions/" ><img src="docs_images/inference_3.png" alt="drawing" height = "45%" width = "45%" /></a>
+
   These statistical inference projects were done using **R notebook**.
 
 #### [Inference on a population mean](https://carlosror.github.io/stat-inf-means/) [<img src="github_icon.png">](https://github.com/carlosror/stat-inf-means)
