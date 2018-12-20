@@ -158,7 +158,13 @@ This notebook describes the pre-processing, using **R notebook**, applied to a d
   
 #### [Notebook: Predicting thyroid diagnoses with decision trees using R notebook and the rpart package](https://carlosror.github.io/thyroid/) [<img src="github_icon.png">](https://github.com/carlosror/thyroid)
 
+<a href="https://carlosror.github.io/thyroid/" ><img src="docs_images/thyroid_1.png" alt="drawing" height = "50%" width = "50%" /></a>
+
+---
+
 #### [Notebook: Predicting the severity of mammography assessments with decision trees using R notebook and the rpart package](https://carlosror.github.io/mammography/) [<img src="github_icon.png">](https://github.com/carlosror/mammography)
+
+---
 
 #### [Notebook: Classification of tweets using SVM](https://carlosror.github.io/twitter_svm/) [<img src="github_icon.png">](https://github.com/carlosror/twitter_svm)
 
