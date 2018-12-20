@@ -39,11 +39,14 @@ the November 8, 2016 election in California, as well as the voting results, usin
 
 #### [Majors, salaries, and genders](https://carlosror.github.io/majors_genders_salaries/) [<img src="github_icon.png">](https://github.com/carlosror/majors_genders_salaries)
 
-<a href="https://carlosror.github.io/majors_genders_salaries/" ><img src="docs_images/majors_barplot.png" alt="drawing" height = "60%" width = "60%" /></a>
+<a href="https://carlosror.github.io/majors_genders_salaries/" ><img src="docs_images/majors_barplot.png" alt="drawing" height = "70%" width = "70%" /></a>
 
   A visualization of the median salaries of recent graduates of about 170 majors, and the degree of women's participation in each major, using **Python**, **Jupyter**, **pandas**, **numpy**, and **matplotlib**.
 
 #### [Who shops Black Friday sales on Thanksgiving Day?](https://carlosror.github.io/Thanksgiving) [<img src="github_icon.png">](https://github.com/carlosror/Thanksgiving)
+
+<a href="https://carlosror.github.io/Thanksgiving" ><img src="docs_images/thanksgiving_1.PNG" alt="drawing" height = "35%" width = "35%" /></a>
+<a href="https://carlosror.github.io/Thanksgiving" ><img src="docs_images/thanksgiving_2.PNG" alt="drawing" height = "35%" width = "35%" /></a>
 
   An exploration and visualization of who shops the Black Friday sales on Thanksgiving Day, using **Python**, **Jupyter**, **pandas**, **numpy**, and **matplotlib**.
   
