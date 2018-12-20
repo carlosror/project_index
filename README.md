@@ -59,12 +59,19 @@ the November 8, 2016 election in California, as well as the voting results, usin
 
 #### [Exploring Africans' views on China using Excel VBA](https://carlosror.github.io/afrobarometer_china//) [<img src="github_icon.png">](https://github.com/carlosror/afrobarometer_china)
 
-<a href="https://carlosror.github.io/afrobarometer_china/" ><img src="docs_images/africa_1.png" alt="drawing" height = "40%" width = "40%" /></a>
-<a href="https://carlosror.github.io/afrobarometer_china/" ><img src="docs_images/africa_2.png" alt="drawing" height = "40%" width = "40%" /></a>
+<a href="https://carlosror.github.io/afrobarometer_china/" ><img src="docs_images/africa_1.png" alt="drawing" height = "50%" width = "50%" /></a>
+<a href="https://carlosror.github.io/afrobarometer_china/" ><img src="docs_images/africa_2.png" alt="drawing" height = "50%" width = "50%" /></a>
 
   Using [Afrobarometer's](http://www.afrobarometer.org/) 2016 poll [data](http://afrobarometer.org/data/merged-round-6-data-36-countries-2016) and **Excel VBA** to gain some insight into Africans' view on China.
 
 ### Crime maps
+
+<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_2.PNG" alt="drawing" height = "37.5%" width = "37.5%" /></a>
+<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_1.png" alt="drawing" height = "30%" width = "30%" /></a>
+<br>
+<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_3.png" alt="drawing" height = "70%" width = "70%" /></a>
+<br>
+<a href="https://carlosgg.shinyapps.io/sf-crime-map/" ><img src="docs_images/crime_map_4.PNG" alt="drawing" height = "70%" width = "70%" /></a>
 
   These interactive maps plot police activity within a given radius of a location. The user can specify types of incidents, days of week, and times of day to refine results. Each of them also displays density maps, faceted bar plots, and contingency tables. They were put together using using **R** and **Shiny server**, while the data was pre-processed using **Python**.
 
