@@ -82,6 +82,14 @@ the November 8, 2016 election in California, as well as the voting results, usin
 
 ---
 
+#### [Exploring the rising costs of the Affordable Care Act’s insurance premiums in Florida](https://carlosror.github.io/healthcare_obamacare_costs/) [<img src="github_icon.png">](https://github.com/carlosror/healthcare_obamacare_costs)
+
+  Used **Microsoft SQL Server**, **Power BI**, and **R** to explore and visualize insurance premium data from 2014 to 2019 downloaded from Healthcare.gov's [data website](https://data.healthcare.gov/). A **SQL Server** was set up and **Transact SQL** queries were run against it to extract the relevant data, which was then visualized using **Power BI** and **R**.
+  
+<a href="https://carlosror.github.io/healthcare_obamacare_costs/" ><img src="docs_images/query_4.PNG" alt="drawing" height = "40%" width = "40%" /></a>
+<a href="https://carlosror.github.io/healthcare_obamacare_costs/" ><img src="docs_images/query_2_result_PowerBI.PNG" alt="drawing" height = "50%" width = "50%" /></a>
+<a href="https://carlosror.github.io/healthcare_obamacare_costs/" ><img src="docs_images/query_4_result_PowerBI.PNG" alt="drawing" height = "90%" width = "90%" /></a>
+
 ### Crime maps
 
   These interactive maps plot police activity within a given radius of a location. The user can specify types of incidents, days of week, and times of day to refine results. Each of them also displays density maps, faceted bar plots, and contingency tables. They were put together using using **R** and **Shiny server**, while the data was pre-processed using **Python**.
