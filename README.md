@@ -2,6 +2,12 @@ In these projects I either pursued an interesting line of inquiry or devised a t
 
 ## Data exploration and visualization
 
+#### [Tracking the performance of the Florida Retirement System pension fund](https://carlosror.github.io/pension_plans/) [<img src="github_icon.png">](https://github.com/carlosror/pension_plans)
+
+  This notebook uses **[SAS](https://www.sas.com/en_us/software/university-edition.html)**  and [**PROC SQL**](https://support.sas.com/resources/papers/proceedings/proceedings/sugi27/p191-27.pdf) to visualize the performance of the [Florida Retirement System](https://www.myfrs.com/) pension fund, one of the [largest](https://en.wikipedia.org/wiki/State_Board_of_Administration_of_Florida) in the United States. The data is from the [Center for Retirement Research at Boston College](https://publicplansdata.org/about/our-research/), which tracks 180 pension funds across the United States. The performance of the fund is compared to those of other large funds..
+
+<a href="https://carlosror.github.io/pension_plans/" ><img src="docs_images/pension_plans_1.png" alt="drawing" height = "70%" width = "70%" /></a>
+
 #### [Interactive visualization of performance of Puerto Rican high schools in 2013-2014](https://carlosgg.shinyapps.io/tasas-graduaciones-pr/) [<img src="github_icon.png">](https://github.com/carlosror/tasas-graduaciones)
 
   Interactive visualization of the graduation rates of all public high schools in Puerto Rico, across regions, districts, and cities, using **R** and **Shiny server**.
