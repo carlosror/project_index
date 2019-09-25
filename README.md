@@ -17,7 +17,7 @@ countries of the [Anglosphere](https://en.wikipedia.org/wiki/Anglosphere). The [
 three Boston-area professors who collected and analyzed data from more than 600,000 people who took 
 an [online English grammar quiz](http://web.archive.org/web/20180217125721/http://archive.gameswithwords.org/WhichEnglish/).
 
-<a href="https://carlosror.github.io/grammar_learning/" ><img src="docs_images/grammar_learning_2.PNG" alt="drawing" height = "50%" width = "40%" /></a>
+<a href="https://carlosror.github.io/grammar_learning/" ><img src="docs_images/grammar_learning_2.PNG" alt="drawing" height = "60%" width = "60%" /></a>
 
 #### [Interactive visualization of performance of Puerto Rican high schools in 2013-2014](https://carlosgg.shinyapps.io/tasas-graduaciones-pr/) [<img src="github_icon.png">](https://github.com/carlosror/tasas-graduaciones)
 
