@@ -1,6 +1,6 @@
 In these projects I either pursued an interesting line of inquiry or devised a tool I thought would be useful. They were built with **R**, **Python**, **MySQL**, **Excel VBA**, **Javascript**, **jQuery**, or some combination of them, and skills learned in [**courses**](https://carlosror.github.io/course_index) taken on the [edX](https://github.com/carlosror/course_index) or [Coursera](https://github.com/carlosror/course_index) platforms.
 
-## Data exploration and visualization
+## Data analysis, exploration, and visualization
 
 #### [Tracking the performance of the Florida Retirement System pension fund](https://carlosror.github.io/pension_plans/) [<img src="github_icon.png">](https://github.com/carlosror/pension_plans)
 
@@ -8,6 +8,16 @@ In these projects I either pursued an interesting line of inquiry or devised a t
 
 <a href="https://carlosror.github.io/pension_plans/" ><img src="docs_images/pension_plans_1.png" alt="drawing" height = "40%" width = "40%" /></a>
 <a href="https://carlosror.github.io/pension_plans/" ><img src="docs_images/pension_plans_2.png" alt="drawing" height = "40%" width = "40%" /></a>
+
+#### [Comparing the grammatical proficiency of ESL learners in English-speaking countries](https://carlosror.github.io/grammar_learning/) [<img src="github_icon.png">](https://github.com/carlosror/grammar_learning)
+
+  This notebook uses **[SAS](https://www.sas.com/en_us/software/university-edition.html)**  to compare 
+the grammatical proficiency of English learners in the United States to that of learners in other 
+countries of the [Anglosphere](https://en.wikipedia.org/wiki/Anglosphere). The [dataset](https://osf.io/pyb8s/) came from 
+three Boston-area professors who collected and analyzed data from more than 600,000 people who took 
+an [online English grammar quiz](http://web.archive.org/web/20180217125721/http://archive.gameswithwords.org/WhichEnglish/).
+
+<a href="https://carlosror.github.io/grammar_learning/" ><img src="docs_images/grammar_learning_2.PNG" alt="drawing" height = "50%" width = "40%" /></a>
 
 #### [Interactive visualization of performance of Puerto Rican high schools in 2013-2014](https://carlosgg.shinyapps.io/tasas-graduaciones-pr/) [<img src="github_icon.png">](https://github.com/carlosror/tasas-graduaciones)
 
