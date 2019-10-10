@@ -35,6 +35,15 @@ an [online English grammar quiz](http://web.archive.org/web/20180217125721/http:
 <a href="https://carlosgg.shinyapps.io/admisiones-upr/" ><img src="docs_images/admisiones_2.png" alt="drawing" height = "30%" width = "30%" /></a>
 
 ---
+
+#### [Orange County Real Estate Sales By Zipcode](https://public.tableau.com/profile/carlos4371#!/vizhome/Orange_County_Real_Estate_Sales_2019/HomesSold)
+
+**Tableau** visualization of Orlando real estate sales by zipcode, using data provided by the [Orlando Regional Realtor Association](https://www.orlandorealtors.org/marketreports).
+
+<a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/Yearlysalesbyplatform" ><img src="docs_images/Orange_County_zipcodes_real_estate_1.PNG" alt="drawing" height = "45%" width = "45%" /></a>
+<a href="https://public.tableau.com/profile/carlos4371#!/vizhome/Video_games_sales/2000sRegionalSales" ><img src="docs_images/Orange_County_zipcodes_real_estate_2.PNG" alt="drawing" height = "45%" width = "45%" /></a>
+
+---
   
 #### [Analysis of 2016 California ballot measures](https://carlosror.github.io/CA_elections_2016/) [<img src="github_icon.png">](https://github.com/carlosror/CA_elections_2016)
 
