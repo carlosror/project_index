@@ -4,10 +4,12 @@ In these projects I either pursued an interesting line of inquiry or devised a t
 
 #### [Boricuas in the NCAA: 2019-2020 yearbook of Puerto Rico women's college volleyball in the U.S.A.](https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020)
 
-Inspired by the SI yearbooks for college and pro sports, the project documents the performance of Puerto Rico's college volleyball players throughout the United States. Maps were created using **R**, while the document itself, to a vast extent, was created using the **Python** API for Scribus, a desktop publishing software.
+Inspired by the SI yearbooks for college and pro sports, the project documents the performance of Puerto Rico's college volleyball players throughout the United States. Maps were created using **R**, while the [document itself](https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020/raw/master/Women/Final_doc_compressed.pdf), to a vast extent, was created using the **Python** API for Scribus, a desktop publishing software.
 
-<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page001.jpg" alt="drawing" height = "40%" width = "40%" /></a>
-<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page002.jpg" alt="drawing" height = "40%" width = "40%" /></a>
+<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page001.jpg" alt="drawing" height = "25%" width = "40%" /></a>
+<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page002.jpg" alt="drawing" height = "25%" width = "40%" /></a>
+<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page003.jpg" alt="drawing" height = "25%" width = "40%" /></a>
+<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page004.jpg" alt="drawing" height = "25%" width = "40%" /></a>
 
 #### [Tracking the performance of the Florida Retirement System pension fund](https://carlosror.github.io/pension_plans/) [<img src="github_icon.png">](https://github.com/carlosror/pension_plans)
 
