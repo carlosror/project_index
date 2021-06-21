@@ -10,7 +10,13 @@ Inspired by the SI yearbooks for college and pro sports, the project documents t
 <a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page002.jpg" alt="drawing" height = "22.5%" width = "22.5%" /></a>
 <a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page003.jpg" alt="drawing" height = "22.5%" width = "22.5%" /></a>
 <a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page004.jpg" alt="drawing" height = "22.5%" width = "22.5%" /></a>
+<br>
 <a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/pr_map4.png" alt="drawing" height = "45%" width = "45%" /></a>
+<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/usa_map10.png" alt="drawing" height = "45%" width = "45%" /></a>
+<br>
+<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Hitting_Pctg.png" alt="drawing" height = "45%" width = "45%" /></a>
+<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/plot_zoom_png_2.png" alt="drawing" height = "45%" width = "45%" /></a>
+<br>
 
 #### [Tracking the performance of the Florida Retirement System pension fund](https://carlosror.github.io/pension_plans/) [<img src="github_icon.png">](https://github.com/carlosror/pension_plans)
 
