@@ -2,6 +2,13 @@ In these projects I either pursued an interesting line of inquiry or devised a t
 
 ## Data analysis, exploration, and visualization
 
+#### [Boricuas in the NCAA: 2019-2020 yearbook of Puerto Rico women's college volleyball in the U.S.A.](https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020)
+
+Inspired by the SI yearbooks for college and pro sports, the project documents the performance of Puerto Rico's college volleyball players throughout the United States. Maps were created using **R**, while the document itself, to a vast extent, was created using the **Python** API for Scribus, a desktop publishing software.
+
+<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page001.jpg" alt="drawing" height = "40%" width = "40%" /></a>
+<a href="https://github.com/carlosror/Boricuas_NCAA_Season_Summary_2019_2020" ><img src="docs_images/Final_doc-page002.jpg" alt="drawing" height = "40%" width = "40%" /></a>
+
 #### [Tracking the performance of the Florida Retirement System pension fund](https://carlosror.github.io/pension_plans/) [<img src="github_icon.png">](https://github.com/carlosror/pension_plans)
 
   This notebook uses **[SAS](https://www.sas.com/en_us/software/university-edition.html)**  and [**PROC SQL**](https://support.sas.com/resources/papers/proceedings/proceedings/sugi27/p191-27.pdf) to visualize the performance of the [Florida Retirement System](https://www.myfrs.com/) pension fund, one of the [largest](https://en.wikipedia.org/wiki/State_Board_of_Administration_of_Florida) in the United States. The data is from the [Center for Retirement Research at Boston College](https://publicplansdata.org/about/our-research/), which tracks 180 pension funds across the United States. The performance of the fund is also compared to those of other large funds.
